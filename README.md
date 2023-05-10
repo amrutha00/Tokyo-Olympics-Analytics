@@ -1,0 +1,4 @@
+# Tokyo Olympic Data
+OlympicData is a comprehensive application that allows users to search and visualize data from the 2021 Tokyo Olympics. By using data about athletes, coaches, gender, teams and medals, the application offers three different pages: Athletes, Teams, Medals where users can search and visualize data related to the Olympics based on the page they go on.  Moreover, there is a world map visualization that is offered to the users where they can hover over each country that participated in the Olympics to see the number of medals won, participants, and coaches. This allows users to get a detailed view of the world and see who participated while also making it easy to use. Overall, our goal is to create a web application that is intuitive and also satisfies any queries related to the Tokyo Olympics. 
+
+
